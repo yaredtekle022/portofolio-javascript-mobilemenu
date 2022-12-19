@@ -100,7 +100,7 @@ Example command:
 
 To clone this repo run this command
 
-git clone https://github.com/yaredtekle022/portfolio-dektop-version
+git clone https://github.com/yaredtekle022/portofolio-javascript-mobilemenu
 
 <!--
 Example commands:
